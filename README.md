@@ -1,3 +1,8 @@
+[v0.0.2](https://github.com/littleflute/Heitor-Villa-Lobos/edit/master/README.md)
+
+[https://github.com/littleflute/blog/issues/48](https://github.com/littleflute/blog/issues/48)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/littleflute/Heitor-Villa-Lobos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
